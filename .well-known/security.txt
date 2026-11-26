@@ -1,0 +1,6 @@
+Contact: https://elisa-agent.com/contact.html
+Expires: 2027-11-22T00:00:00.000Z
+Preferred-Languages: fr, en
+Canonical: https://elisa-agent.com/.well-known/security.txt
+Policy: https://elisa-agent.com/fr/securite.html#divulgation
+Policy: https://elisa-agent.com/security.html#disclosure
