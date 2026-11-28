@@ -2,6 +2,14 @@
 <?xml-stylesheet type="text/xsl" href="https://www.elisa-agent.com/sitemaps/sitemap.xsl"?>
 <urlset xmlns="http://www.sitemaps.org/schemas/sitemap/0.9" xmlns:xhtml="http://www.w3.org/1999/xhtml">
   <url>
+    <loc>https://www.elisa-agent.com/privacy-chrome.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.elisa-agent.com/privacy-chrome.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.elisa-agent.com/fr/confidentialite-chrome.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.elisa-agent.com/privacy-chrome.html"/>
+
+  </url>
+  <url>
     <loc>https://www.elisa-agent.com/demo.html</loc>
     <lastmod>2026-11-23</lastmod>
     <xhtml:link rel="alternate" hreflang="en" href="https://www.elisa-agent.com/demo.html"/>
@@ -88,6 +96,13 @@
     <xhtml:link rel="alternate" hreflang="fr" href="https://www.elisa-agent.com/fr/comparatif.html"/>
     <xhtml:link rel="alternate" hreflang="x-default" href="https://www.elisa-agent.com/compare.html"/>
 
+  </url>
+  <url>
+    <loc>https://www.elisa-agent.com/fr/confidentialite-chrome.html</loc>
+    <lastmod>2026-11-28</lastmod>
+    <xhtml:link rel="alternate" hreflang="en" href="https://www.elisa-agent.com/privacy-chrome.html"/>
+    <xhtml:link rel="alternate" hreflang="fr" href="https://www.elisa-agent.com/fr/confidentialite-chrome.html"/>
+    <xhtml:link rel="alternate" hreflang="x-default" href="https://www.elisa-agent.com/privacy-chrome.html"/>
   </url>
   <url>
     <loc>https://www.elisa-agent.com/fr/demo.html</loc>
